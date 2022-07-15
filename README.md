@@ -19,3 +19,5 @@ Find me on: https://www.linkedin.com/in/abhinav-parajuli-923172191/
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhiPj)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=AbhiPj)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiPj&layout=compact)](https://github.com/AbhiPj/github-readme-stats)

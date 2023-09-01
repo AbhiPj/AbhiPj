@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Find me on: https://www.linkedin.com/in/abhinav-parajuli-923172191/
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhiPj)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhiPj)](https://git.io/streak-stats)-->
 
 ![](https://komarev.com/ghpvc/?username=AbhiPj)
 
